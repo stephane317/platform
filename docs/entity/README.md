@@ -5,11 +5,11 @@ Entity State adapter for managing record collections.
 @ngrx/entity provides an API to manipulate and query entity collections.
 
 - Reduces boilerplate for managing common datasets
-- Provides performant operations for managing entity collections
+- Provides performant CRUD operations for managing entity collections
 - Extensible type-safe adapters for selecting entity information
 
 ### Installation
-Install @ngrx/effects from npm:
+Install @ngrx/entity from npm:
 
 `npm install @ngrx/entity --save` OR `yarn add @ngrx/entity`
 

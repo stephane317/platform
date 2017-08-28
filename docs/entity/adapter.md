@@ -84,8 +84,8 @@ state if no changes were made.
 * `addOne`: Add one entity to the collection
 * `addMany`: Add multiple entities to the collection
 * `addAll`: Replace current collection with provided collection
-* `removeOne`: Remove one entity to the collection
-* `removeMany`: Remove multiple entities to the collection
+* `removeOne`: Remove one entity from the collection
+* `removeMany`: Remove multiple entities from the collection
 * `removeAll`: Clear entity collection
 * `updateOne`: Update one entity in the collection
 * `updateMany`: Update multiple entities in the collection
